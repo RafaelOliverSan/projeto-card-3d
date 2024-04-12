@@ -9,6 +9,7 @@
 
 body{
   height: 100vh; /* altura */
+  background: url(./imagens/tenisFundo.png);
 }
 
 .container{
