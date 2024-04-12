@@ -12,6 +12,7 @@ body{
   background: url(./imagens/tenisFundo.png);
   background-repeat: no-repeat;
   background-size: 1800px;
+   background-position: 100%;
 }
 
 .container{
